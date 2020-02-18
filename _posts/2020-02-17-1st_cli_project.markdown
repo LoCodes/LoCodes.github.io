@@ -10,14 +10,13 @@ permalink:  1st_cli_project
 
 Instruction for LasVegasHikes Repository 
 
-github.com/LoCodes/LasVegasHikes.git
 
 This CLI Application shows 5 top rated Hike trails around  the Las Vegas Valley. You will be able to interact with this app and is able to show you information on the option you wish to choose. Information such as estimated time of the trail length by kilometers, hike elevation, difficulty level,  etc. 
 
 Read the README, there will be a video link to showcase how it works. 
 
 
-Clone the above link of repository on your ide
+Clone the link of repository on your ide
 
 Make sure you are in the right folder if not type in your terminal: 
 
