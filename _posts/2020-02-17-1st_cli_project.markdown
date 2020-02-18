@@ -1,16 +1,16 @@
 ---
 layout: post
 title:      "1st CLI Project"
-date:       2020-02-18 03:46:02 +0000
+date:       2020-02-17 22:46:03 -0500
 permalink:  1st_cli_project
 ---
 
 
 
 
-Instruction and reference for LasVegasHikes Repository 
+Instruction for LasVegasHikes Repository 
 
-https://github.com/LoCodes/LasVegasHikes.git
+github.com/LoCodes/LasVegasHikes.git
 
 This CLI Application shows 5 top rated Hike trails around  the Las Vegas Valley. You will be able to interact with this app and is able to show you information on the option you wish to choose. Information such as estimated time of the trail length by kilometers, hike elevation, difficulty level,  etc. 
 
@@ -19,14 +19,15 @@ Read the README, there will be a video link to showcase how it works.
 
 Clone the above link of repository on your ide
 
-Make sure you are in the right folder if not 
-> cd LasVegasHikes 
+Make sure you are in the right folder if not type in your terminal: 
 
-> ./bin/console  
+cd LasVegasHikes 
+
+ ./bin/console  
 
 or 
 
-> bin/run 
+ bin/run 
 
 May  be prompted to run 'bunldle install' 
 
