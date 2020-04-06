@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Feeling Stuck Is The Right Phrase"
-date:       2020-04-06 03:05:58 +0000
+title:      "'Feeling Stuck' Is The Right Phrase"
+date:       2020-04-05 23:05:59 -0400
 permalink:  feeling_stuck_is_the_right_phrase
 ---
 
